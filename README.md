@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+tdolmat_palindrome adds a palindrome? method to the String class
 
 ## Development
 
