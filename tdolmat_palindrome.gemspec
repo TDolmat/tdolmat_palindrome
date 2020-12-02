@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Palidrome detector}
   spec.description   = %q{Learn Enough test gem}
-  spec.homepage      = "https://github.com/tdolmat/tdolmat_palindrome"
+  spec.homepage      = "https://github.com/TDolmat/tdolmat_palindrome.git"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
